@@ -20,4 +20,15 @@ val_data = Subset(full_val, range(1000))
 train_loader = DataLoader(train_data, batch_size=64, shuffle=True)
 val_loader = DataLoader(val_data, batch_size=256, shuffle=False)
 
-print(f"Ready! Training images: {len(train_data)} | Validation images: {len(val_data)}")
+print(f"Ready! Trainingg images: {len(train_data)} | Validation images: {len(val_data)}")
+
+
+
+
+
+
+
+
+#hello 
+#hiiiii   vjhgjikhkjhiu
+#gjhkupupu;k'k'
